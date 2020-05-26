@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Zoopla app Test Suite" verbose="1">
+
+	<listeners>
+		<listener class-name="com.qa.zoopla.listeners.ExtentReportListener" />
+		<listener class-name="com.qa.zoopla.listeners.TestAllureListener" />
+
+	</listeners>
+
+	<test name="Zoopla regression Test">
+		<classes>
+			<class name="com.qa.zoopla.tests.HomePageTest" />
+			<class name="com.qa.zoopla.tests.PropertyPricePageTest" />
+			<class name="com.qa.zoopla.tests.fifthPropertydeatilsPageTest" />
+			<class name="com.qa.zoopla.tests.AgentVerifyPageTest" />
+		</classes>
+	</test>
+</suite>

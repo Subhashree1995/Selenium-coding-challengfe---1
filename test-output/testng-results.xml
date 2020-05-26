@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Zoopla app Test Suite" duration-ms="222161" started-at="2020-05-26T15:05:58Z" finished-at="2020-05-26T15:09:40Z">
+    <groups>
+    </groups>
+    <test name="Zoopla regression Test" duration-ms="222161" started-at="2020-05-26T15:05:58Z" finished-at="2020-05-26T15:09:40Z">
+      <class name="com.qa.zoopla.tests.AgentVerifyPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zoopla.tests.AgentVerifyPageTest@3fbfa96]" name="setUp" is-config="true" duration-ms="32242" started-at="2020-05-26T15:07:28Z" finished-at="2020-05-26T15:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddressTest()[pri:1, instance:com.qa.zoopla.tests.AgentVerifyPageTest@3fbfa96]" name="verifyAddressTest" duration-ms="250" started-at="2020-05-26T15:08:00Z" finished-at="2020-05-26T15:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddressTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.zoopla.tests.AgentVerifyPageTest@3fbfa96]" name="tearDown" is-config="true" duration-ms="1219" started-at="2020-05-26T15:08:00Z" finished-at="2020-05-26T15:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.zoopla.tests.AgentVerifyPageTest -->
+      <class name="com.qa.zoopla.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zoopla.tests.HomePageTest@312afbc7]" name="setUp" is-config="true" duration-ms="21487" started-at="2020-05-26T15:05:58Z" finished-at="2020-05-26T15:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="acceptCookieTest()[pri:1, instance:com.qa.zoopla.tests.HomePageTest@312afbc7]" name="acceptCookieTest" duration-ms="3420" started-at="2020-05-26T15:06:20Z" finished-at="2020-05-26T15:06:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptCookieTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.zoopla.tests.HomePageTest@312afbc7]" name="tearDown" is-config="true" duration-ms="3145" started-at="2020-05-26T15:06:24Z" finished-at="2020-05-26T15:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.zoopla.tests.HomePageTest -->
+      <class name="com.qa.zoopla.tests.fifthPropertydeatilsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="setUp" is-config="true" duration-ms="26750" started-at="2020-05-26T15:06:52Z" finished-at="2020-05-26T15:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:1, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="verifyLogoTest" duration-ms="6055" started-at="2020-05-26T15:07:19Z" finished-at="2020-05-26T15:07:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="tearDown" is-config="true" duration-ms="3289" started-at="2020-05-26T15:07:25Z" finished-at="2020-05-26T15:07:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="setUp" is-config="true" duration-ms="33620" started-at="2020-05-26T15:08:27Z" finished-at="2020-05-26T15:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyphnNumberTest()[pri:2, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="verifyphnNumberTest" duration-ms="200" started-at="2020-05-26T15:09:01Z" finished-at="2020-05-26T15:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyphnNumberTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="tearDown" is-config="true" duration-ms="1316" started-at="2020-05-26T15:09:01Z" finished-at="2020-05-26T15:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="setUp" is-config="true" duration-ms="33371" started-at="2020-05-26T15:09:02Z" finished-at="2020-05-26T15:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAgentNameTest()[pri:3, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="verifyAgentNameTest" duration-ms="3465" started-at="2020-05-26T15:09:36Z" finished-at="2020-05-26T15:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAgentNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.zoopla.tests.fifthPropertydeatilsPageTest@7b60c3e]" name="tearDown" is-config="true" duration-ms="1124" started-at="2020-05-26T15:09:39Z" finished-at="2020-05-26T15:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.zoopla.tests.fifthPropertydeatilsPageTest -->
+      <class name="com.qa.zoopla.tests.PropertyPricePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zoopla.tests.PropertyPricePageTest@599f571f]" name="setUp" is-config="true" duration-ms="19933" started-at="2020-05-26T15:06:27Z" finished-at="2020-05-26T15:06:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sortedPriceInDescOrderTest()[pri:1, instance:com.qa.zoopla.tests.PropertyPricePageTest@599f571f]" name="sortedPriceInDescOrderTest" duration-ms="4039" started-at="2020-05-26T15:06:47Z" finished-at="2020-05-26T15:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortedPriceInDescOrderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.zoopla.tests.PropertyPricePageTest@599f571f]" name="tearDown" is-config="true" duration-ms="1190" started-at="2020-05-26T15:06:51Z" finished-at="2020-05-26T15:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zoopla.tests.PropertyPricePageTest@599f571f]" name="setUp" is-config="true" duration-ms="17833" started-at="2020-05-26T15:08:02Z" finished-at="2020-05-26T15:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fifthvalueTest()[pri:2, instance:com.qa.zoopla.tests.PropertyPricePageTest@599f571f]" name="fifthvalueTest" duration-ms="6520" started-at="2020-05-26T15:08:19Z" finished-at="2020-05-26T15:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifthvalueTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.zoopla.tests.PropertyPricePageTest@599f571f]" name="tearDown" is-config="true" duration-ms="1080" started-at="2020-05-26T15:08:26Z" finished-at="2020-05-26T15:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.zoopla.tests.PropertyPricePageTest -->
+    </test> <!-- Zoopla regression Test -->
+  </suite> <!-- Zoopla app Test Suite -->
+</testng-results>
